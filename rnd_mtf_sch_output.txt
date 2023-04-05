@@ -1,0 +1,5003 @@
+Results of the randomized motif search algorithm:
+sorted by score:
+-----------------------------------------
+N = 1 of 500
+Best score = 5
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 2 of 500
+Best score = 5
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 3 of 500
+Best score = 5
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 4 of 500
+Best score = 5
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 5 of 500
+Best score = 5
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 6 of 500
+Best score = 5
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 7 of 500
+Best score = 5
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 8 of 500
+Best score = 6
+Consensus motif: TTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 9 of 500
+Best score = 6
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 10 of 500
+Best score = 6
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 11 of 500
+Best score = 6
+Consensus motif: TAAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 12 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 13 of 500
+Best score = 6
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 14 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 15 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 16 of 500
+Best score = 6
+Consensus motif: ACGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 17 of 500
+Best score = 6
+Consensus motif: TTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 18 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 19 of 500
+Best score = 6
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 20 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 21 of 500
+Best score = 6
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 22 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 23 of 500
+Best score = 6
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 24 of 500
+Best score = 6
+Consensus motif: TTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 25 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 26 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 27 of 500
+Best score = 6
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 28 of 500
+Best score = 6
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 29 of 500
+Best score = 6
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 30 of 500
+Best score = 6
+Consensus motif: TAAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 31 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 32 of 500
+Best score = 6
+Consensus motif: TTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 33 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 34 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 35 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 36 of 500
+Best score = 6
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 37 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 38 of 500
+Best score = 6
+Consensus motif: GTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 39 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 40 of 500
+Best score = 6
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 41 of 500
+Best score = 6
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 42 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 43 of 500
+Best score = 6
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 44 of 500
+Best score = 6
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 45 of 500
+Best score = 6
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 46 of 500
+Best score = 6
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 47 of 500
+Best score = 6
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 48 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 49 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 50 of 500
+Best score = 6
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 51 of 500
+Best score = 6
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 52 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 53 of 500
+Best score = 6
+Consensus motif: GTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 54 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 55 of 500
+Best score = 6
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 56 of 500
+Best score = 6
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 57 of 500
+Best score = 6
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 58 of 500
+Best score = 6
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 59 of 500
+Best score = 6
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 60 of 500
+Best score = 6
+Consensus motif: TTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 61 of 500
+Best score = 6
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 62 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 63 of 500
+Best score = 6
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 64 of 500
+Best score = 6
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 65 of 500
+Best score = 6
+Consensus motif: TTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 66 of 500
+Best score = 6
+Consensus motif: TTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 67 of 500
+Best score = 6
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 68 of 500
+Best score = 6
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 69 of 500
+Best score = 6
+Consensus motif: GTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 70 of 500
+Best score = 6
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 71 of 500
+Best score = 6
+Consensus motif: GTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 72 of 500
+Best score = 6
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 73 of 500
+Best score = 6
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 74 of 500
+Best score = 6
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 75 of 500
+Best score = 6
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 76 of 500
+Best score = 6
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 77 of 500
+Best score = 6
+Consensus motif: TTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 78 of 500
+Best score = 6
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 79 of 500
+Best score = 7
+Consensus motif: CTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 80 of 500
+Best score = 7
+Consensus motif: TTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+G[91mATGT[0mCTGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 81 of 500
+Best score = 7
+Consensus motif: ATTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+G[91mATGT[0mCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 82 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 83 of 500
+Best score = 7
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 84 of 500
+Best score = 7
+Consensus motif: CGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 85 of 500
+Best score = 7
+Consensus motif: CAGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 86 of 500
+Best score = 7
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 87 of 500
+Best score = 7
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 88 of 500
+Best score = 7
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 89 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCGG[91mCGTT[0mAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 90 of 500
+Best score = 7
+Consensus motif: CTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 91 of 500
+Best score = 7
+Consensus motif: TGAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 92 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 93 of 500
+Best score = 7
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 94 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 95 of 500
+Best score = 7
+Consensus motif: CTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATG[91mTCTG[0mTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 96 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 97 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 98 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 99 of 500
+Best score = 7
+Consensus motif: CGGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 100 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+G[91mATGT[0mCTGTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 101 of 500
+Best score = 7
+Consensus motif: CCTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 102 of 500
+Best score = 7
+Consensus motif: ATTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+G[91mATGT[0mCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 103 of 500
+Best score = 7
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 104 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CACTA[91mACGA[0mG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 105 of 500
+Best score = 7
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+[91mCACT[0mAACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 106 of 500
+Best score = 7
+Consensus motif: TGAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 107 of 500
+Best score = 7
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 108 of 500
+Best score = 7
+Consensus motif: TGAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 109 of 500
+Best score = 7
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 110 of 500
+Best score = 7
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 111 of 500
+Best score = 7
+Consensus motif: TTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 112 of 500
+Best score = 7
+Consensus motif: CTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 113 of 500
+Best score = 7
+Consensus motif: CCGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 114 of 500
+Best score = 7
+Consensus motif: CTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 115 of 500
+Best score = 7
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 116 of 500
+Best score = 7
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 117 of 500
+Best score = 7
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 118 of 500
+Best score = 7
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 119 of 500
+Best score = 7
+Consensus motif: CATT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 120 of 500
+Best score = 7
+Consensus motif: TGAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 121 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 122 of 500
+Best score = 7
+Consensus motif: GTCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+[91mCACT[0mAACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 123 of 500
+Best score = 7
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 124 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 125 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 126 of 500
+Best score = 7
+Consensus motif: CATT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 127 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 128 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 129 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 130 of 500
+Best score = 7
+Consensus motif: CGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 131 of 500
+Best score = 7
+Consensus motif: CATT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 132 of 500
+Best score = 7
+Consensus motif: TGTC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 133 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 134 of 500
+Best score = 7
+Consensus motif: GCCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 135 of 500
+Best score = 7
+Consensus motif: TGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 136 of 500
+Best score = 7
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 137 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 138 of 500
+Best score = 7
+Consensus motif: TTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 139 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 140 of 500
+Best score = 7
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 141 of 500
+Best score = 7
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 142 of 500
+Best score = 7
+Consensus motif: TCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 143 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 144 of 500
+Best score = 7
+Consensus motif: CTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 145 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 146 of 500
+Best score = 7
+Consensus motif: CTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 147 of 500
+Best score = 7
+Consensus motif: TGAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 148 of 500
+Best score = 7
+Consensus motif: CCAG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 149 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+G[91mATGT[0mCTGTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 150 of 500
+Best score = 7
+Consensus motif: TGTC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 151 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 152 of 500
+Best score = 7
+Consensus motif: TAAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 153 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 154 of 500
+Best score = 7
+Consensus motif: TGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 155 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 156 of 500
+Best score = 7
+Consensus motif: CAGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 157 of 500
+Best score = 7
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 158 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 159 of 500
+Best score = 7
+Consensus motif: TTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 160 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 161 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 162 of 500
+Best score = 7
+Consensus motif: CGGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 163 of 500
+Best score = 7
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 164 of 500
+Best score = 7
+Consensus motif: CCAG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 165 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 166 of 500
+Best score = 7
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 167 of 500
+Best score = 7
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+[91mCACT[0mAACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 168 of 500
+Best score = 7
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 169 of 500
+Best score = 7
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 170 of 500
+Best score = 7
+Consensus motif: TTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 171 of 500
+Best score = 7
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 172 of 500
+Best score = 7
+Consensus motif: TGTC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 173 of 500
+Best score = 7
+Consensus motif: GACG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 174 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 175 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 176 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 177 of 500
+Best score = 7
+Consensus motif: TTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 178 of 500
+Best score = 7
+Consensus motif: GCCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 179 of 500
+Best score = 7
+Consensus motif: TGAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 180 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 181 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+C[91mCGGC[0mGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 182 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 183 of 500
+Best score = 7
+Consensus motif: TGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 184 of 500
+Best score = 7
+Consensus motif: TTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 185 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 186 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 187 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 188 of 500
+Best score = 7
+Consensus motif: CCGA
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 189 of 500
+Best score = 7
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 190 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 191 of 500
+Best score = 7
+Consensus motif: TGAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 192 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 193 of 500
+Best score = 7
+Consensus motif: CTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 194 of 500
+Best score = 7
+Consensus motif: CCGA
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 195 of 500
+Best score = 7
+Consensus motif: TTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 196 of 500
+Best score = 7
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 197 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 198 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 199 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 200 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 201 of 500
+Best score = 7
+Consensus motif: CCGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 202 of 500
+Best score = 7
+Consensus motif: CTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATG[91mTCTG[0mTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 203 of 500
+Best score = 7
+Consensus motif: TGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 204 of 500
+Best score = 7
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 205 of 500
+Best score = 7
+Consensus motif: CTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 206 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+G[91mATGT[0mCTGTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 207 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 208 of 500
+Best score = 7
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 209 of 500
+Best score = 7
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 210 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 211 of 500
+Best score = 7
+Consensus motif: TTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 212 of 500
+Best score = 7
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 213 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 214 of 500
+Best score = 7
+Consensus motif: TCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 215 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 216 of 500
+Best score = 7
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 217 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 218 of 500
+Best score = 7
+Consensus motif: CGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 219 of 500
+Best score = 7
+Consensus motif: TTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 220 of 500
+Best score = 7
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 221 of 500
+Best score = 7
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GAT[91mGTCT[0mGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 222 of 500
+Best score = 7
+Consensus motif: GCCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 223 of 500
+Best score = 7
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GAT[91mGTCT[0mGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 224 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 225 of 500
+Best score = 7
+Consensus motif: CCAG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 226 of 500
+Best score = 7
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 227 of 500
+Best score = 7
+Consensus motif: CCAG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 228 of 500
+Best score = 7
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 229 of 500
+Best score = 7
+Consensus motif: CATT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 230 of 500
+Best score = 7
+Consensus motif: CCTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 231 of 500
+Best score = 7
+Consensus motif: CTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 232 of 500
+Best score = 7
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 233 of 500
+Best score = 7
+Consensus motif: CGTC
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 234 of 500
+Best score = 7
+Consensus motif: CTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATG[91mTCTG[0mTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 235 of 500
+Best score = 7
+Consensus motif: CGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 236 of 500
+Best score = 7
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 237 of 500
+Best score = 7
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 238 of 500
+Best score = 7
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 239 of 500
+Best score = 7
+Consensus motif: TGTC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 240 of 500
+Best score = 7
+Consensus motif: TGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 241 of 500
+Best score = 7
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+[91mCACT[0mAACGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 242 of 500
+Best score = 7
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+[91mCACT[0mAACGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 243 of 500
+Best score = 7
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 244 of 500
+Best score = 7
+Consensus motif: TCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 245 of 500
+Best score = 7
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 246 of 500
+Best score = 7
+Consensus motif: TTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+G[91mATGT[0mCTGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 247 of 500
+Best score = 8
+Consensus motif: CGTC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 248 of 500
+Best score = 8
+Consensus motif: AGCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 249 of 500
+Best score = 8
+Consensus motif: CGTC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 250 of 500
+Best score = 8
+Consensus motif: CAGC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 251 of 500
+Best score = 8
+Consensus motif: CATA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 252 of 500
+Best score = 8
+Consensus motif: TAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 253 of 500
+Best score = 8
+Consensus motif: ACTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+G[91mATGT[0mCTGTC
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 254 of 500
+Best score = 8
+Consensus motif: CCTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GAT[91mGTCT[0mGTC
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 255 of 500
+Best score = 8
+Consensus motif: CCGA
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 256 of 500
+Best score = 8
+Consensus motif: CATT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 257 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 258 of 500
+Best score = 8
+Consensus motif: GTTA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 259 of 500
+Best score = 8
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 260 of 500
+Best score = 8
+Consensus motif: GACT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 261 of 500
+Best score = 8
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 262 of 500
+Best score = 8
+Consensus motif: CAGT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 263 of 500
+Best score = 8
+Consensus motif: AACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 264 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 265 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 266 of 500
+Best score = 8
+Consensus motif: CAGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 267 of 500
+Best score = 8
+Consensus motif: GTCA
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 268 of 500
+Best score = 8
+Consensus motif: CCGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 269 of 500
+Best score = 8
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 270 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 271 of 500
+Best score = 8
+Consensus motif: CGTC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 272 of 500
+Best score = 8
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 273 of 500
+Best score = 8
+Consensus motif: ATAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+G[91mATGT[0mCTGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 274 of 500
+Best score = 8
+Consensus motif: CTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 275 of 500
+Best score = 8
+Consensus motif: TGTC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 276 of 500
+Best score = 8
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 277 of 500
+Best score = 8
+Consensus motif: GATA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 278 of 500
+Best score = 8
+Consensus motif: CGGT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 279 of 500
+Best score = 8
+Consensus motif: TCAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+CCG[91mGCGT[0mTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 280 of 500
+Best score = 8
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 281 of 500
+Best score = 8
+Consensus motif: TCAG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 282 of 500
+Best score = 8
+Consensus motif: GATA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 283 of 500
+Best score = 8
+Consensus motif: CAGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 284 of 500
+Best score = 8
+Consensus motif: GTTA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 285 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 286 of 500
+Best score = 8
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 287 of 500
+Best score = 8
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 288 of 500
+Best score = 8
+Consensus motif: GCCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 289 of 500
+Best score = 8
+Consensus motif: GAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 290 of 500
+Best score = 8
+Consensus motif: CGCC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 291 of 500
+Best score = 8
+Consensus motif: CGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 292 of 500
+Best score = 8
+Consensus motif: GGAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 293 of 500
+Best score = 8
+Consensus motif: TGCC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 294 of 500
+Best score = 8
+Consensus motif: TACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATG[91mTCTG[0mTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 295 of 500
+Best score = 8
+Consensus motif: ATTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+G[91mATGT[0mCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 296 of 500
+Best score = 8
+Consensus motif: TTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 297 of 500
+Best score = 8
+Consensus motif: CTGA
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 298 of 500
+Best score = 8
+Consensus motif: TCCG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 299 of 500
+Best score = 8
+Consensus motif: GGAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 300 of 500
+Best score = 8
+Consensus motif: ACCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 301 of 500
+Best score = 8
+Consensus motif: CAGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 302 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 303 of 500
+Best score = 8
+Consensus motif: CTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 304 of 500
+Best score = 8
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 305 of 500
+Best score = 8
+Consensus motif: TGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 306 of 500
+Best score = 8
+Consensus motif: ACGG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 307 of 500
+Best score = 8
+Consensus motif: TCAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+CCG[91mGCGT[0mTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 308 of 500
+Best score = 8
+Consensus motif: AACG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 309 of 500
+Best score = 8
+Consensus motif: GTCA
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 310 of 500
+Best score = 8
+Consensus motif: CGAT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 311 of 500
+Best score = 8
+Consensus motif: CTTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 312 of 500
+Best score = 8
+Consensus motif: TCTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATG[91mTCTG[0mTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 313 of 500
+Best score = 8
+Consensus motif: CAGT
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 314 of 500
+Best score = 8
+Consensus motif: CGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 315 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 316 of 500
+Best score = 8
+Consensus motif: CTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 317 of 500
+Best score = 8
+Consensus motif: CGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 318 of 500
+Best score = 8
+Consensus motif: CGTG
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 319 of 500
+Best score = 8
+Consensus motif: TCTG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 320 of 500
+Best score = 8
+Consensus motif: GCCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 321 of 500
+Best score = 8
+Consensus motif: ACTT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+G[91mATGT[0mCTGTC
+CCGG[91mCGTT[0mAG
+C[91mACTA[0mACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 322 of 500
+Best score = 8
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+CCG[91mGCGT[0mTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 323 of 500
+Best score = 8
+Consensus motif: TCAG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 324 of 500
+Best score = 8
+Consensus motif: AGCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 325 of 500
+Best score = 8
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 326 of 500
+Best score = 8
+Consensus motif: AGGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 327 of 500
+Best score = 8
+Consensus motif: TCAG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 328 of 500
+Best score = 8
+Consensus motif: TCAG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 329 of 500
+Best score = 8
+Consensus motif: TCTG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 330 of 500
+Best score = 8
+Consensus motif: ACCG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 331 of 500
+Best score = 8
+Consensus motif: TTAA
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 332 of 500
+Best score = 8
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 333 of 500
+Best score = 8
+Consensus motif: CTGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 334 of 500
+Best score = 8
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 335 of 500
+Best score = 8
+Consensus motif: CTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 336 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 337 of 500
+Best score = 8
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+CCG[91mGCGT[0mTAG
+C[91mACTA[0mACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 338 of 500
+Best score = 8
+Consensus motif: CGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 339 of 500
+Best score = 8
+Consensus motif: TGCC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 340 of 500
+Best score = 8
+Consensus motif: CCGG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 341 of 500
+Best score = 8
+Consensus motif: TCAG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 342 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 343 of 500
+Best score = 8
+Consensus motif: AGCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 344 of 500
+Best score = 8
+Consensus motif: CGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 345 of 500
+Best score = 8
+Consensus motif: CCTA
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+C[91mACTA[0mACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 346 of 500
+Best score = 8
+Consensus motif: CTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 347 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 348 of 500
+Best score = 8
+Consensus motif: CCTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 349 of 500
+Best score = 8
+Consensus motif: ACGG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 350 of 500
+Best score = 8
+Consensus motif: TGAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 351 of 500
+Best score = 8
+Consensus motif: CGGT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 352 of 500
+Best score = 8
+Consensus motif: TGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 353 of 500
+Best score = 8
+Consensus motif: CTAA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 354 of 500
+Best score = 8
+Consensus motif: GCCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 355 of 500
+Best score = 8
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 356 of 500
+Best score = 8
+Consensus motif: ATGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+G[91mATGT[0mCTGTC
+CCGGC[91mGTTA[0mG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 357 of 500
+Best score = 8
+Consensus motif: GTTA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 358 of 500
+Best score = 8
+Consensus motif: TACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATG[91mTCTG[0mTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 359 of 500
+Best score = 8
+Consensus motif: ACGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 360 of 500
+Best score = 8
+Consensus motif: CGTG
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 361 of 500
+Best score = 8
+Consensus motif: TAAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 362 of 500
+Best score = 8
+Consensus motif: CAGT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 363 of 500
+Best score = 8
+Consensus motif: CGTG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 364 of 500
+Best score = 8
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 365 of 500
+Best score = 8
+Consensus motif: CGTT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GAT[91mGTCT[0mGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 366 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 367 of 500
+Best score = 8
+Consensus motif: TGAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 368 of 500
+Best score = 8
+Consensus motif: GTCA
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GAT[91mGTCT[0mGTC
+CCGGC[91mGTTA[0mG
+[91mCACT[0mAACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 369 of 500
+Best score = 8
+Consensus motif: CGGT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 370 of 500
+Best score = 8
+Consensus motif: AACG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 371 of 500
+Best score = 8
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 372 of 500
+Best score = 8
+Consensus motif: CCAG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 373 of 500
+Best score = 8
+Consensus motif: CAGC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 374 of 500
+Best score = 8
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 375 of 500
+Best score = 8
+Consensus motif: AGCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 376 of 500
+Best score = 8
+Consensus motif: CGGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 377 of 500
+Best score = 8
+Consensus motif: CTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 378 of 500
+Best score = 8
+Consensus motif: GCCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 379 of 500
+Best score = 8
+Consensus motif: CGTC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 380 of 500
+Best score = 8
+Consensus motif: GGAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 381 of 500
+Best score = 8
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 382 of 500
+Best score = 8
+Consensus motif: CCGG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 383 of 500
+Best score = 8
+Consensus motif: CGTC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 384 of 500
+Best score = 9
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 385 of 500
+Best score = 9
+Consensus motif: ATGA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+G[91mATGT[0mCTGTC
+CCGGCG[91mTTAG[0m
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 386 of 500
+Best score = 9
+Consensus motif: ACCG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 387 of 500
+Best score = 9
+Consensus motif: TGCC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 388 of 500
+Best score = 9
+Consensus motif: GATA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 389 of 500
+Best score = 9
+Consensus motif: GAGG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 390 of 500
+Best score = 9
+Consensus motif: CGCC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CACTAA[91mCGAG[0m
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 391 of 500
+Best score = 9
+Consensus motif: GTCG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 392 of 500
+Best score = 9
+Consensus motif: GGCG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CACTAA[91mCGAG[0m
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 393 of 500
+Best score = 9
+Consensus motif: AGGT
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+G[91mATGT[0mCTGTC
+CCGG[91mCGTT[0mAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 394 of 500
+Best score = 9
+Consensus motif: CCAG
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 395 of 500
+Best score = 9
+Consensus motif: CCGG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 396 of 500
+Best score = 9
+Consensus motif: GATA
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 397 of 500
+Best score = 9
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 398 of 500
+Best score = 9
+Consensus motif: CAGG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 399 of 500
+Best score = 9
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 400 of 500
+Best score = 9
+Consensus motif: CTTC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 401 of 500
+Best score = 9
+Consensus motif: GATA
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 402 of 500
+Best score = 9
+Consensus motif: CCAG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 403 of 500
+Best score = 9
+Consensus motif: CTGG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 404 of 500
+Best score = 9
+Consensus motif: CAGC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 405 of 500
+Best score = 9
+Consensus motif: ATAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+G[91mATGT[0mCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 406 of 500
+Best score = 9
+Consensus motif: CCAG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 407 of 500
+Best score = 9
+Consensus motif: GCTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 408 of 500
+Best score = 9
+Consensus motif: CAGA
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 409 of 500
+Best score = 9
+Consensus motif: CCGC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CACTA[91mACGA[0mG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 410 of 500
+Best score = 9
+Consensus motif: CCAG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 411 of 500
+Best score = 9
+Consensus motif: CGGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 412 of 500
+Best score = 9
+Consensus motif: GACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GAT[91mGTCT[0mGTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 413 of 500
+Best score = 9
+Consensus motif: CAGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 414 of 500
+Best score = 9
+Consensus motif: ATAT
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 415 of 500
+Best score = 9
+Consensus motif: ACGG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 416 of 500
+Best score = 9
+Consensus motif: GACC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 417 of 500
+Best score = 9
+Consensus motif: GTCT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 418 of 500
+Best score = 9
+Consensus motif: GCGG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+[91mGATG[0mTCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 419 of 500
+Best score = 9
+Consensus motif: CAGG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 420 of 500
+Best score = 9
+Consensus motif: GATG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACTAA[91mCGAG[0m
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 421 of 500
+Best score = 9
+Consensus motif: ACCG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 422 of 500
+Best score = 9
+Consensus motif: TACC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 423 of 500
+Best score = 9
+Consensus motif: ACTA
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 424 of 500
+Best score = 9
+Consensus motif: GAGG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 425 of 500
+Best score = 9
+Consensus motif: CCGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 426 of 500
+Best score = 9
+Consensus motif: GACC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 427 of 500
+Best score = 9
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 428 of 500
+Best score = 9
+Consensus motif: CCAT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+CCG[91mGCGT[0mTAG
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 429 of 500
+Best score = 9
+Consensus motif: AGGC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+C[91mCGGC[0mGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 430 of 500
+Best score = 9
+Consensus motif: AAGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 431 of 500
+Best score = 9
+Consensus motif: AGGC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+C[91mCGGC[0mGTTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 432 of 500
+Best score = 9
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 433 of 500
+Best score = 9
+Consensus motif: GAGC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CCG[91mGCGT[0mTAG
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 434 of 500
+Best score = 9
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 435 of 500
+Best score = 9
+Consensus motif: CGGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 436 of 500
+Best score = 9
+Consensus motif: ATGT
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+CCGGCG[91mTTAG[0m
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 437 of 500
+Best score = 9
+Consensus motif: CCGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 438 of 500
+Best score = 9
+Consensus motif: CGAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+[91mGATG[0mTCTGTC
+C[91mCGGC[0mGTTAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 439 of 500
+Best score = 9
+Consensus motif: TCTG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATG[91mTCTG[0mTC
+CCG[91mGCGT[0mTAG
+C[91mACTA[0mACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 440 of 500
+Best score = 9
+Consensus motif: TTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+CAC[91mTAAC[0mGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 441 of 500
+Best score = 9
+Consensus motif: TTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+CCGGCG[91mTTAG[0m
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 442 of 500
+Best score = 9
+Consensus motif: CAGG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 443 of 500
+Best score = 9
+Consensus motif: CCGA
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 444 of 500
+Best score = 9
+Consensus motif: TAAC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CCG[91mGCGT[0mTAG
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 445 of 500
+Best score = 9
+Consensus motif: AGCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 446 of 500
+Best score = 9
+Consensus motif: CAGT
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 447 of 500
+Best score = 9
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CA[91mCTAA[0mCGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 448 of 500
+Best score = 9
+Consensus motif: CTAA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 449 of 500
+Best score = 9
+Consensus motif: TCAG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+GATG[91mTCTG[0mTC
+CCGGCG[91mTTAG[0m
+[91mCACT[0mAACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 450 of 500
+Best score = 9
+Consensus motif: ACGA
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GATG[91mTCTG[0mTC
+[91mCCGG[0mCGTTAG
+CACTA[91mACGA[0mG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 451 of 500
+Best score = 9
+Consensus motif: AAGT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 452 of 500
+Best score = 9
+Consensus motif: ATGA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+G[91mATGT[0mCTGTC
+C[91mCGGC[0mGTTAG
+CACTA[91mACGA[0mG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 453 of 500
+Best score = 9
+Consensus motif: GACA
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 454 of 500
+Best score = 9
+Consensus motif: GTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CA[91mCTAA[0mCGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 455 of 500
+Best score = 9
+Consensus motif: CATG
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+CCGG[91mCGTT[0mAG
+CACTAA[91mCGAG[0m
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 456 of 500
+Best score = 9
+Consensus motif: CGTA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+C[91mCGGC[0mGTTAG
+C[91mACTA[0mACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 457 of 500
+Best score = 9
+Consensus motif: CAGA
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CA[91mCTAA[0mCGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 458 of 500
+Best score = 9
+Consensus motif: GTCA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 459 of 500
+Best score = 9
+Consensus motif: CGGC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 460 of 500
+Best score = 10
+Consensus motif: GTAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CACTA[91mACGA[0mG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 461 of 500
+Best score = 10
+Consensus motif: GTAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 462 of 500
+Best score = 10
+Consensus motif: AGCC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+C[91mCGGC[0mGTTAG
+CACT[91mAACG[0mAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 463 of 500
+Best score = 10
+Consensus motif: GAGT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CAC[91mTAAC[0mGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 464 of 500
+Best score = 10
+Consensus motif: AACT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+[91mGATG[0mTCTGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 465 of 500
+Best score = 10
+Consensus motif: CAGC
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+[91mGATG[0mTCTGTC
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 466 of 500
+Best score = 10
+Consensus motif: ACGT
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 467 of 500
+Best score = 10
+Consensus motif: CAGT
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 468 of 500
+Best score = 10
+Consensus motif: TGAA
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+C[91mACTA[0mACGAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 469 of 500
+Best score = 10
+Consensus motif: GGAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CACTAA[91mCGAG[0m
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 470 of 500
+Best score = 10
+Consensus motif: ATCT
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+CCGG[91mCGTT[0mAG
+CA[91mCTAA[0mCGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 471 of 500
+Best score = 10
+Consensus motif: CAGC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GATGT[91mCTGT[0mC
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 472 of 500
+Best score = 10
+Consensus motif: AGGT
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTAA[91mCGAG[0m
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 473 of 500
+Best score = 10
+Consensus motif: CTCT
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 474 of 500
+Best score = 10
+Consensus motif: GTAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+[91mGATG[0mTCTGTC
+CCGGCG[91mTTAG[0m
+CACT[91mAACG[0mAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 475 of 500
+Best score = 10
+Consensus motif: AGAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+C[91mCGGC[0mGTTAG
+CACTAA[91mCGAG[0m
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 476 of 500
+Best score = 10
+Consensus motif: AACG
+Best motifs found after iterations:
+TTAC[91mCTTA[0mAC
+[91mGATG[0mTCTGTC
+CC[91mGGCG[0mTTAG
+CACT[91mAACG[0mAG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 477 of 500
+Best score = 10
+Consensus motif: AGGC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 478 of 500
+Best score = 10
+Consensus motif: AAGG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+G[91mATGT[0mCTGTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CGT[91mCAGA[0mGGT
+-----------------------------------------
+N = 479 of 500
+Best score = 10
+Consensus motif: AACT
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+G[91mATGT[0mCTGTC
+CCGG[91mCGTT[0mAG
+[91mCACT[0mAACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 480 of 500
+Best score = 10
+Consensus motif: TCAT
+Best motifs found after iterations:
+TTA[91mCCTT[0mAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CAC[91mTAAC[0mGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 481 of 500
+Best score = 10
+Consensus motif: TACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GAT[91mGTCT[0mGTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 482 of 500
+Best score = 10
+Consensus motif: GAAG
+Best motifs found after iterations:
+TTACC[91mTTAA[0mC
+[91mGATG[0mTCTGTC
+CCG[91mGCGT[0mTAG
+CACTAA[91mCGAG[0m
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 483 of 500
+Best score = 10
+Consensus motif: CACT
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+GAT[91mGTCT[0mGTC
+CCG[91mGCGT[0mTAG
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 484 of 500
+Best score = 10
+Consensus motif: GTAA
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+[91mGATG[0mTCTGTC
+CCGGC[91mGTTA[0mG
+CAC[91mTAAC[0mGAG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 485 of 500
+Best score = 10
+Consensus motif: ACCG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 486 of 500
+Best score = 10
+Consensus motif: AAGC
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+G[91mATGT[0mCTGTC
+C[91mCGGC[0mGTTAG
+CAC[91mTAAC[0mGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 487 of 500
+Best score = 10
+Consensus motif: ACGT
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+CCG[91mGCGT[0mTAG
+CACTA[91mACGA[0mG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 488 of 500
+Best score = 10
+Consensus motif: ATAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+G[91mATGT[0mCTGTC
+CCGGCG[91mTTAG[0m
+CACT[91mAACG[0mAG
+CGTCA[91mGAGG[0mT
+-----------------------------------------
+N = 489 of 500
+Best score = 10
+Consensus motif: TTAA
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGCG[91mTTAG[0m
+CACTA[91mACGA[0mG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 490 of 500
+Best score = 11
+Consensus motif: AACG
+Best motifs found after iterations:
+T[91mTACC[0mTTAAC
+G[91mATGT[0mCTGTC
+[91mCCGG[0mCGTTAG
+CACT[91mAACG[0mAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 491 of 500
+Best score = 11
+Consensus motif: CTAC
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GAT[91mGTCT[0mGTC
+CCGGCG[91mTTAG[0m
+[91mCACT[0mAACGAG
+[91mCGTC[0mAGAGGT
+-----------------------------------------
+N = 492 of 500
+Best score = 11
+Consensus motif: CCAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 493 of 500
+Best score = 11
+Consensus motif: CAAG
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATGT[91mCTGT[0mC
+[91mCCGG[0mCGTTAG
+[91mCACT[0mAACGAG
+CG[91mTCAG[0mAGGT
+-----------------------------------------
+N = 494 of 500
+Best score = 11
+Consensus motif: ACGT
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GATG[91mTCTG[0mTC
+CCG[91mGCGT[0mTAG
+C[91mACTA[0mACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 495 of 500
+Best score = 11
+Consensus motif: AGTA
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CCGGC[91mGTTA[0mG
+C[91mACTA[0mACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 496 of 500
+Best score = 11
+Consensus motif: ACGG
+Best motifs found after iterations:
+TT[91mACCT[0mTAAC
+[91mGATG[0mTCTGTC
+[91mCCGG[0mCGTTAG
+CACTAA[91mCGAG[0m
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 497 of 500
+Best score = 12
+Consensus motif: GGCA
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CACTA[91mACGA[0mG
+C[91mGTCA[0mGAGGT
+-----------------------------------------
+N = 498 of 500
+Best score = 12
+Consensus motif: AGAG
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GAT[91mGTCT[0mGTC
+CC[91mGGCG[0mTTAG
+CACTA[91mACGA[0mG
+CGTC[91mAGAG[0mGT
+-----------------------------------------
+N = 499 of 500
+Best score = 12
+Consensus motif: ACGC
+Best motifs found after iterations:
+TTACCT[91mTAAC[0m
+GA[91mTGTC[0m[91mTGTC[0m
+CCG[91mGCGT[0mTAG
+C[91mACTA[0mACGAG
+CGTCAG[91mAGGT[0m
+-----------------------------------------
+N = 500 of 500
+Best score = 12
+Consensus motif: GGCA
+Best motifs found after iterations:
+[91mTTAC[0mCTTAAC
+GA[91mTGTC[0m[91mTGTC[0m
+CC[91mGGCG[0mTTAG
+CACTA[91mACGA[0mG
+C[91mGTCA[0mGAGGT
+-----------------------------------------

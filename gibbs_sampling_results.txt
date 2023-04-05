@@ -1,0 +1,92 @@
+Results of the Gibbs sampling motif search algorithm:
+N = 10
+Lowest score: 7 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:[31mTTAC[0mCTTAAC
+GAT[31mGTCT[0mGTC
+CCGGCG[31mTTAG[0m
+CAC[31mTAAC[0mGAG
+CG[31mTCAG[0mAGGT
+**********************************************N = 10
+Lowest score: 7 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:TTAC[31mCTTA[0mAC
+G[31mATGT[0mCTGTC
+[31mCCGG[0mCGTTAG
+CA[31mCTAA[0mCGAG
+CGT[31mCAGA[0mGGT
+**********************************************N = 10
+Lowest score: 8 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:TTA[31mCCTT[0mAAC
+G[31mATGT[0mCTGTC
+C[31mCGGC[0mGTTAG
+CACTA[31mACGA[0mG
+CGTCAG[31mAGGT[0m
+**********************************************N = 10
+Lowest score: 8 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:TTACC[31mTTAA[0mC
+G[31mATGT[0mCTGTC
+CCGGCG[31mTTAG[0m
+CACT[31mAACG[0mAG
+CGTC[31mAGAG[0mGT
+**********************************************N = 10
+Lowest score: 8 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:[31mTTAC[0mCTTAAC
+GA[31mTGTC[0m[31mTGTC[0m
+CC[31mGGCG[0mTTAG
+CAC[31mTAAC[0mGAG
+CGTC[31mAGAG[0mGT
+**********************************************N = 10
+Lowest score: 8 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:TT[31mACCT[0mTAAC
+GATGT[31mCTGT[0mC
+C[31mCGGC[0mGTTAG
+CACTAA[31mCGAG[0m
+CGTCAG[31mAGGT[0m
+**********************************************N = 10
+Lowest score: 8 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:[31mTTAC[0mCTTAAC
+[31mGATG[0mTCTGTC
+CCGGCG[31mTTAG[0m
+CAC[31mTAAC[0mGAG
+CGTC[31mAGAG[0mGT
+**********************************************N = 10
+Lowest score: 8 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:TTAC[31mCTTA[0mAC
+GAT[31mGTCT[0mGTC
+[31mCCGG[0mCGTTAG
+CA[31mCTAA[0mCGAG
+CGT[31mCAGA[0mGGT
+**********************************************N = 10
+Lowest score: 9 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:TTACCT[31mTAAC[0m
+GAT[31mGTCT[0mGTC
+CCG[31mGCGT[0mTAG
+[31mCACT[0mAACGAG
+C[31mGTCA[0mGAGGT
+**********************************************N = 10
+Lowest score: 10 at iteration 9
+Consensus: ['ACGT', 'AACG', 'GACT', 'ATAG', 'TTAC', 'CTGA', 'TGAC', 'CGGT', 'TAAG', 'CTGA']
+Best score = [8, 10, 9, 8, 7, 7, 8, 8, 8, 8] found after 5 iterations
+Best motifs found after iterations:T[31mTACC[0mTTAAC
+GAT[31mGTCT[0mGTC
+CCGGCG[31mTTAG[0m
+CACT[31mAACG[0mAG
+CGTC[31mAGAG[0mGT
+**********************************************
