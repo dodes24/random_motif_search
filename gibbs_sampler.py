@@ -158,59 +158,85 @@ def consensus(motifs):
     return consensus
 
 
-k = 4
-t = 5
-N = int(sys.argv[1]) if len(sys.argv) > 1 else 20  # inside gibbs fnc
-n_times = int(sys.argv[2]) if len(sys.argv) > 2 else 10  # outside gibbs fnc, just repeat all 
-motif_lst = []
+def visualize_until_convergence(score_lst):
+    # visualize score after each iteration
+    sns.set_style('whitegrid')
+    plt.figure(figsize=(15,5))
+    plt.plot(score_lst)
+    plt.xlabel('Iteration')
+    plt.ylabel('Score')
+    plt.title('Gibbs Sampler Convergence')
+
+    # find the lowest score and the iteration at which it occurs
+    min_score = min(score_lst[int(0.2 * len(score_lst)):])
+    min_score_iter = score_lst.index(min_score)
+
+    # plot burn-in period in blue
+    plt.fill_between(range(int(0.1 * len(score_lst))), score_lst[:int(0.1 * len(score_lst))], color='blue', alpha=0.1)
+
+    # plot min score with red point
+    plt.scatter(min_score_iter, min_score, color='red', s=100)
+    
+    # y lim from 4 to 12
+    plt.ylim(4,12)
+
+    # legend
+    plt.legend(['Score after each iteration',
+                'Burn-in period',
+                'Min score {0} after iteration {1}'.format(min_score, min_score_iter)
+                ])
+    plt.savefig('gibbs_sampler_plot.png')
+    plt.show()
+
+
+
+
 score_lst = []
-all_gibs_motifs_lst = []
-consensus_lst = []
 
+def RepeatGibbsMotSearch(k, t, N, n_times):
+    """
+    the RepeatGibbsMotSearch function has been modified to repeat the Gibbs sampling 
+    process n_times and then sort and print the best motifs found for each iteration. 
+    This function is then wrapped with another loop that repeats the entire process N times.
+    This outer loop allows the entire sampling process to be repeated multiple times, while 
+    the inner loop repeats the process n_times to find the best motifs within each iteration.
+    """
+    with open('gibbs_sampling_results.txt', 'w') as f:  # update the mode parameter
+        for N_iter in range(N):
+            motif_lst = []
+            all_gibs_motifs_lst = []
+            consensus_lst = []
+            for _ in range(n_times):
+                motif, score, gibbs_motifs, consensus = gibbs_sampler(dna, k, t, N)
+                motif_lst.append(motif)
+                score_lst.append(score)
+                all_gibs_motifs_lst.append(gibbs_motifs)
+                consensus_lst.append(consensus)
 
-def RepeatGibbsMotSearch(n_times):
-    for i in range(n_times):
-        motif, score, gibbs_motifs, consensus = gibbs_sampler(dna, k, t, N)
-        motif_lst.append(motif)
-        score_lst.append(score)
-        all_gibs_motifs_lst.append(gibbs_motifs)
-        consensus_lst.append(consensus)
+            # sort the motifs by score
+            data = list(zip(score_lst, all_gibs_motifs_lst, consensus_lst))
+            data.sort(key=lambda x: x[0])
 
+            f.write(f'N = {N_iter+1} of {N}\n')
+            f.write(f'Consensus: {consensus_lst[0]}\n')
+            f.write(f'Score = {score_lst[0]} \n')
+            f.write('Motifs found after iterations:')
+            for j in range(len(all_gibs_motifs_lst[0])):
+                f.write(f'{all_gibs_motifs_lst[0][j]}\n')
+            f.write('**********************************************\n')
 
-        # sort the motifs by score
-        data = list(zip(score_lst, all_gibs_motifs_lst, consensus_lst))
-        data.sort(key=lambda x: x[0])
-
-        # print the sorted motifs
-        with open('gibbs_sampling_results.txt', 'w') as f:
-            f.write('Results of the Gibbs sampling motif search algorithm:\n')
-            for idx, (score, gibbs_motifs, consensus) in enumerate(data):
-                print(f'N = {idx+1} of {n_times}\n')
-                print(f'Lowest score: {score} at iteration {i}\n')
-                print(f'Consensus: {consensus}\n')
-                print(f'Best score = {score} found after {len(gibbs_motifs)} iterations\n')
-                print('Best motifs found after iterations:')
-                for j in range(len(gibbs_motifs)):
-                    print(f'{gibbs_motifs[j]}')
-                print('**********************************************')
-
-
-                f.write(f'N = {n_times}\n')
-                f.write(f'Lowest score: {score} at iteration {i}\n')
-                f.write(f'Consensus: {consensus_lst}\n')
-                f.write(f'Best score = {score_lst} found after {len(gibbs_motifs)} iterations\n')
-                f.write('Best motifs found after iterations:')
-                for j in range(len(gibbs_motifs)):
-                    f.write(f'{gibbs_motifs[j]}\n')
-                f.write('**********************************************')
 
 def main():
-    print(f'Running Gibbs Sampler {N} times')
-    RepeatGibbsMotSearch(n_times)
+    k = 4
+    t = 5
+    N = int(sys.argv[1]) if len(sys.argv) > 1 else 30  # inside gibbs fnc
+    n_times = int(sys.argv[2]) if len(sys.argv) > 2 else 60  # outside gibbs fnc, just repeat all 
+
+    print(f'Running Gibbs Sampler {n_times} times, {N} iterations each')
+    RepeatGibbsMotSearch(k, t, N, n_times)
+    print("Visualizing results...")
+    visualize_until_convergence(score_lst)
     print('Done')
-
-
-
 
 
 if __name__ == '__main__':

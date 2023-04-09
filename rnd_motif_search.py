@@ -136,7 +136,7 @@ def visualize_until_convergence(score_lst):
     plt.plot(score_lst)  
     plt.xlabel('Iterations')
     plt.ylabel('Score')
-    plt.title('Score for each iteration')
+    plt.title('Randomized Motif Search Convergence')
     # find the lowest score and the corresponding iteration and highlight it
     min_score = min(score_lst)
     min_score_index = score_lst.index(min_score)
